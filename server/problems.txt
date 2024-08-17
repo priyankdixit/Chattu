@@ -1,0 +1,22 @@
+1.Making middleware i.e how to send form data
+2.Use of JWT token for authentication
+3. got to know about express validators and other npm package
+4.multer
+
+
+
+
+
+
+
+
+
+req.params is for parameters embedded in the route path.
+req.body is for data sent in the body of POST/PUT requests.
+req.query is for data sent as URL query parameters in GET requests.
+
+
+
+
+
+
